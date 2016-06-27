@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PajaresElio-Assigm-1.xcodeproj">
+      location = "self:lecture2a.xcodeproj">
    </FileRef>
 </Workspace>

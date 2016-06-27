@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		291E4B131D1B4AED0061B372 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291E4B121D1B4AED0061B372 /* AppDelegate.swift */; };
-		291E4B151D1B4AED0061B372 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291E4B141D1B4AED0061B372 /* ViewController.swift */; };
-		291E4B181D1B4AED0061B372 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291E4B161D1B4AED0061B372 /* Main.storyboard */; };
-		291E4B1A1D1B4AED0061B372 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 291E4B191D1B4AED0061B372 /* Assets.xcassets */; };
-		291E4B1D1D1B4AED0061B372 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291E4B1B1D1B4AED0061B372 /* LaunchScreen.storyboard */; };
+		291E4B6D1D1DCBC60061B372 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291E4B6C1D1DCBC60061B372 /* AppDelegate.swift */; };
+		291E4B6F1D1DCBC60061B372 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291E4B6E1D1DCBC60061B372 /* ViewController.swift */; };
+		291E4B721D1DCBC60061B372 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291E4B701D1DCBC60061B372 /* Main.storyboard */; };
+		291E4B741D1DCBC60061B372 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 291E4B731D1DCBC60061B372 /* Assets.xcassets */; };
+		291E4B771D1DCBC60061B372 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291E4B751D1DCBC60061B372 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		291E4B0F1D1B4AED0061B372 /* PajaresElio-Assigm-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PajaresElio-Assigm-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		291E4B121D1B4AED0061B372 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		291E4B141D1B4AED0061B372 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		291E4B171D1B4AED0061B372 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		291E4B191D1B4AED0061B372 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		291E4B1C1D1B4AED0061B372 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		291E4B1E1D1B4AED0061B372 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		291E4B691D1DCBC60061B372 /* lecture2a.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lecture2a.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		291E4B6C1D1DCBC60061B372 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		291E4B6E1D1DCBC60061B372 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		291E4B711D1DCBC60061B372 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		291E4B731D1DCBC60061B372 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		291E4B761D1DCBC60061B372 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		291E4B781D1DCBC60061B372 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		291E4B0C1D1B4AED0061B372 /* Frameworks */ = {
+		291E4B661D1DCBC60061B372 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		291E4B061D1B4AED0061B372 = {
+		291E4B601D1DCBC60061B372 = {
 			isa = PBXGroup;
 			children = (
-				291E4B111D1B4AED0061B372 /* PajaresElio-Assigm-1 */,
-				291E4B101D1B4AED0061B372 /* Products */,
+				291E4B6B1D1DCBC60061B372 /* lecture2a */,
+				291E4B6A1D1DCBC60061B372 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		291E4B101D1B4AED0061B372 /* Products */ = {
+		291E4B6A1D1DCBC60061B372 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				291E4B0F1D1B4AED0061B372 /* PajaresElio-Assigm-1.app */,
+				291E4B691D1DCBC60061B372 /* lecture2a.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		291E4B111D1B4AED0061B372 /* PajaresElio-Assigm-1 */ = {
+		291E4B6B1D1DCBC60061B372 /* lecture2a */ = {
 			isa = PBXGroup;
 			children = (
-				291E4B121D1B4AED0061B372 /* AppDelegate.swift */,
-				291E4B141D1B4AED0061B372 /* ViewController.swift */,
-				291E4B161D1B4AED0061B372 /* Main.storyboard */,
-				291E4B191D1B4AED0061B372 /* Assets.xcassets */,
-				291E4B1B1D1B4AED0061B372 /* LaunchScreen.storyboard */,
-				291E4B1E1D1B4AED0061B372 /* Info.plist */,
+				291E4B6C1D1DCBC60061B372 /* AppDelegate.swift */,
+				291E4B6E1D1DCBC60061B372 /* ViewController.swift */,
+				291E4B701D1DCBC60061B372 /* Main.storyboard */,
+				291E4B731D1DCBC60061B372 /* Assets.xcassets */,
+				291E4B751D1DCBC60061B372 /* LaunchScreen.storyboard */,
+				291E4B781D1DCBC60061B372 /* Info.plist */,
 			);
-			path = "PajaresElio-Assigm-1";
+			path = lecture2a;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		291E4B0E1D1B4AED0061B372 /* PajaresElio-Assigm-1 */ = {
+		291E4B681D1DCBC60061B372 /* lecture2a */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 291E4B211D1B4AED0061B372 /* Build configuration list for PBXNativeTarget "PajaresElio-Assigm-1" */;
+			buildConfigurationList = 291E4B7B1D1DCBC60061B372 /* Build configuration list for PBXNativeTarget "lecture2a" */;
 			buildPhases = (
-				291E4B0B1D1B4AED0061B372 /* Sources */,
-				291E4B0C1D1B4AED0061B372 /* Frameworks */,
-				291E4B0D1D1B4AED0061B372 /* Resources */,
+				291E4B651D1DCBC60061B372 /* Sources */,
+				291E4B661D1DCBC60061B372 /* Frameworks */,
+				291E4B671D1DCBC60061B372 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "PajaresElio-Assigm-1";
-			productName = "PajaresElio-Assigm-1";
-			productReference = 291E4B0F1D1B4AED0061B372 /* PajaresElio-Assigm-1.app */;
+			name = lecture2a;
+			productName = lecture2a;
+			productReference = 291E4B691D1DCBC60061B372 /* lecture2a.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		291E4B071D1B4AED0061B372 /* Project object */ = {
+		291E4B611D1DCBC60061B372 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "Elio Pajares";
 				TargetAttributes = {
-					291E4B0E1D1B4AED0061B372 = {
+					291E4B681D1DCBC60061B372 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 291E4B0A1D1B4AED0061B372 /* Build configuration list for PBXProject "PajaresElio-Assigm-1" */;
+			buildConfigurationList = 291E4B641D1DCBC60061B372 /* Build configuration list for PBXProject "lecture2a" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 291E4B061D1B4AED0061B372;
-			productRefGroup = 291E4B101D1B4AED0061B372 /* Products */;
+			mainGroup = 291E4B601D1DCBC60061B372;
+			productRefGroup = 291E4B6A1D1DCBC60061B372 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				291E4B0E1D1B4AED0061B372 /* PajaresElio-Assigm-1 */,
+				291E4B681D1DCBC60061B372 /* lecture2a */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		291E4B0D1D1B4AED0061B372 /* Resources */ = {
+		291E4B671D1DCBC60061B372 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				291E4B1D1D1B4AED0061B372 /* LaunchScreen.storyboard in Resources */,
-				291E4B1A1D1B4AED0061B372 /* Assets.xcassets in Resources */,
-				291E4B181D1B4AED0061B372 /* Main.storyboard in Resources */,
+				291E4B771D1DCBC60061B372 /* LaunchScreen.storyboard in Resources */,
+				291E4B741D1DCBC60061B372 /* Assets.xcassets in Resources */,
+				291E4B721D1DCBC60061B372 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		291E4B0B1D1B4AED0061B372 /* Sources */ = {
+		291E4B651D1DCBC60061B372 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				291E4B151D1B4AED0061B372 /* ViewController.swift in Sources */,
-				291E4B131D1B4AED0061B372 /* AppDelegate.swift in Sources */,
+				291E4B6F1D1DCBC60061B372 /* ViewController.swift in Sources */,
+				291E4B6D1D1DCBC60061B372 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		291E4B161D1B4AED0061B372 /* Main.storyboard */ = {
+		291E4B701D1DCBC60061B372 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				291E4B171D1B4AED0061B372 /* Base */,
+				291E4B711D1DCBC60061B372 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		291E4B1B1D1B4AED0061B372 /* LaunchScreen.storyboard */ = {
+		291E4B751D1DCBC60061B372 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				291E4B1C1D1B4AED0061B372 /* Base */,
+				291E4B761D1DCBC60061B372 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		291E4B1F1D1B4AED0061B372 /* Debug */ = {
+		291E4B791D1DCBC60061B372 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,7 +208,7 @@
 			};
 			name = Debug;
 		};
-		291E4B201D1B4AED0061B372 /* Release */ = {
+		291E4B7A1D1DCBC60061B372 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -247,24 +247,24 @@
 			};
 			name = Release;
 		};
-		291E4B221D1B4AED0061B372 /* Debug */ = {
+		291E4B7C1D1DCBC60061B372 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "PajaresElio-Assigm-1/Info.plist";
+				INFOPLIST_FILE = lecture2a/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ep.PajaresElio-Assigm-1";
+				PRODUCT_BUNDLE_IDENTIFIER = ep.lecture2a;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		291E4B231D1B4AED0061B372 /* Release */ = {
+		291E4B7D1D1DCBC60061B372 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "PajaresElio-Assigm-1/Info.plist";
+				INFOPLIST_FILE = lecture2a/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ep.PajaresElio-Assigm-1";
+				PRODUCT_BUNDLE_IDENTIFIER = ep.lecture2a;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -272,24 +272,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		291E4B0A1D1B4AED0061B372 /* Build configuration list for PBXProject "PajaresElio-Assigm-1" */ = {
+		291E4B641D1DCBC60061B372 /* Build configuration list for PBXProject "lecture2a" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				291E4B1F1D1B4AED0061B372 /* Debug */,
-				291E4B201D1B4AED0061B372 /* Release */,
+				291E4B791D1DCBC60061B372 /* Debug */,
+				291E4B7A1D1DCBC60061B372 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		291E4B211D1B4AED0061B372 /* Build configuration list for PBXNativeTarget "PajaresElio-Assigm-1" */ = {
+		291E4B7B1D1DCBC60061B372 /* Build configuration list for PBXNativeTarget "lecture2a" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				291E4B221D1B4AED0061B372 /* Debug */,
-				291E4B231D1B4AED0061B372 /* Release */,
+				291E4B7C1D1DCBC60061B372 /* Debug */,
+				291E4B7D1D1DCBC60061B372 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 291E4B071D1B4AED0061B372 /* Project object */;
+	rootObject = 291E4B611D1DCBC60061B372 /* Project object */;
 }

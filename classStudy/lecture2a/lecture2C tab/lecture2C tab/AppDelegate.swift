@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  PajaresElio-Assigm-1
+//  lecture2C tab
 //
-//  Created by Elio Pajares on 6/22/16.
+//  Created by Elio Pajares on 6/25/16.
 //  Copyright © 2016 Elio Pajares. All rights reserved.
 //
 

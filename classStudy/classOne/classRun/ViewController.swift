@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  PajaresElio-Assigm-1
+//  classRun
 //
-//  Created by Elio Pajares on 6/22/16.
+//  Created by Elio Pajares on 6/24/16.
 //  Copyright © 2016 Elio Pajares. All rights reserved.
 //
 
